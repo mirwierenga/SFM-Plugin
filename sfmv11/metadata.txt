@@ -1,0 +1,8 @@
+[general]
+name=Surface Flow Model
+qgisMinimumVersion=3.4
+
+description=Surface Flow Model plugin containing process parts and tools
+version=10.0
+author=Miranda Wierenga
+homepage=https://github.com/miwieren/SFM.git
